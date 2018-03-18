@@ -1,0 +1,15 @@
+$ git log --graph --oneline master coins easy-mode
+* b8e37c3 (easy-mode) Break asteroids into 2 fragments instead of 3.
+* 63c418f (master) fix: fix bug seamless shooting
+* 3884eab (origin/master, origin/HEAD) Add color
+* 3e42136 now using requestAnimationFrame
+* 4035769 frame interval was set wrong after game was paused
+* 25ede83 a couple missing ends with the ipad version
+* df03538 I can't spell 'screen' apparently :)
+| * 354dfdd (HEAD -> coins, origin/coins) Make ships able to spawn on coins
+| * 0c6daf1 Make it possible to collect coins
+| * a3c0ae4 Create helper functions
+| * 656b02e First pass at adding coins
+|/
+* b0678b1 Revert controls
+* f19cb1b Fix typo in space
